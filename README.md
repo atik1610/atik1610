@@ -1,8 +1,6 @@
 # Hi 👋, I'm Atikur Rahaman Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atik1610&label=Profile views&color=0e75b6&style=flat" alt="atik1610" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atik1610" alt="atik1610" /></a> </p>
 
 - 🌱 I'm currently learning **DATA STRATURE , ALGORITHM ,NextJs**
 
