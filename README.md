@@ -1,6 +1,8 @@
 # Hi 👋, I'm Atikur Rahaman Khan
 
-
+<p align="center">
+  <img src="./github-banner.png" alt="Atikur Rahaman Khan" width="100%" />
+</p>
 
 - 🌱 I'm currently learning **DATA STRATURE , ALGORITHM ,NextJs**
 
